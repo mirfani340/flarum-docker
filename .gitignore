@@ -1,3 +1,4 @@
 vendor
 composer.lock
 *.swp
+docker-compose.yml
